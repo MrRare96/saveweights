@@ -5,3 +5,5 @@ Vertex groups are being saved and readded if they do not exist, or updated if th
 
 Note that all matching vertexes in the JSON file within the existing GROUP will have their WEIGHTS overwritten!
 Note 2: The ORDER for groups that are saved in the JSON file, are ABSOLUTE (thus it will overwrite/reset any existing orders in groups!).
+
+[![ezgif.com-gif-maker29608885848dfd46.gif](https://s4.gifyu.com/images/ezgif.com-gif-maker29608885848dfd46.gif)](https://gifyu.com/image/S3rmi)
